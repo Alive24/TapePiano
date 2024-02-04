@@ -31,3 +31,8 @@ With the code archived in this repo, it would be able to detect and register all
 ![9d0d21386082fd3b39db6809b36c14b](https://github.com/Alive24/TapePiano/assets/20827211/d553f5f0-2645-458f-8b4b-6c653ef925d9)
 ![cde9a91e501178a50abf16ebfb3333f](https://github.com/Alive24/TapePiano/assets/20827211/7ca4973b-ccc1-4cac-a2b8-e3695dcc097f)
 ![23c8d8c4b505ef8f0fe853189c9cd52](https://github.com/Alive24/TapePiano/assets/20827211/84642647-e2c5-483e-9745-823b7292de87)
+
+
+## Videos
+https://youtu.be/Js4PpYcqvtc
+https://youtu.be/KsCReLSWoyQ
